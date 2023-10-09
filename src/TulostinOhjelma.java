@@ -19,6 +19,10 @@ public class TulostinOhjelma {
 		int luku2 = 2;
 		System.out.println(luku2);
 		
+		//tehdään kolmas muuttuja tulo
+		int tulo;
+		tulo = luku1 *luku2;
+		System.out.println(luku1 + " * " + luku2 + " = " + tulo);
 	}
 
 }
