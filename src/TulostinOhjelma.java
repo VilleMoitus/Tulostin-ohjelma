@@ -13,16 +13,18 @@ public class TulostinOhjelma {
 		
 		//määritettään ja tulostetaan luku1
 		int luku1 = 5;
-		System.out.println(luku1);
+		System.out.println("Luku1-muuttujan arvo on " + luku1);
 		
 		//määritetään ja tulostetaan luku2 
 		int luku2 = 2;
-		System.out.println(luku2);
+		 System.out.println("Luku2-muuttujan arvo on " + luku2);
 		
 		//tehdään kolmas muuttuja tulo
 		int tulo;
 		tulo = luku1 *luku2;
 		System.out.println(luku1 + " * " + luku2 + " = " + tulo);
+		
+		
 	}
 
 }
