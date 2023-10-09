@@ -28,6 +28,11 @@ public class TulostinOhjelma {
 		double erotus = luku1 - luku2;
 		double summa = luku1 + luku2;
         double jako = (double) luku1 / luku2;
+        
+     // Tulostus muille laskutoimituksille
+        System.out.println(luku1 + " - " + luku2 + " = " + erotus);
+        System.out.println(luku1 + " + " + luku2 + " = " + summa);
+        System.out.println(luku1 + " / " + luku2 + " = " + jako);
 		
 		
 	}
