@@ -11,6 +11,13 @@ public class TulostinOhjelma {
 		System.out.print("Ohjelman tekijä: ");
 		System.out.println(tekija);
 		
+		//määritettään ja tulostetaan luku1
+		int luku1 = 5;
+		System.out.println(luku1);
+		
+		//määritetään ja tulostetaan luku2 
+		int luku2 = 2;
+		System.out.println(luku2);
 		
 	}
 
